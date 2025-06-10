@@ -1,0 +1,19 @@
+Plan
+
+1-5)Context - Diego
+	-Atome habillé
+	-Hamitonian
+	-Example (experiment,qubit, etc)
+	-terms dissipatifs/detuning/etc
+5-10) - Dogan
+	-analytical ss
+
+10-20) results
+	Question par questions (pour chaques Q les différents cas)
+Q1 - Tara
+Q2 - Diego
+Q3 - Dogan
+Q4 - Dogan
+
+20-25) conclusions perspectives
+	Conclusion summary effets
