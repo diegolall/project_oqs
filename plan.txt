@@ -12,7 +12,7 @@ Plan
 	Question par questions (pour chaques Q les différents cas)
 Q1 - Tara
 Q2 - Diego
-Q3 - Dogan
+Q3 - Diego
 Q4 - Dogan
 
 20-25) conclusions perspectives
